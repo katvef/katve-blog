@@ -1,15 +1,15 @@
 +++
 date = '2025-09-28T02:25:02+03:00'
-draft = true
+draft = false
 title = 'Used'
 +++
 ## Introduction
-
+---
 I came out as trans two days ago, ready to explore myself and find who I am – but then everything fell apart.
 
 
 ## The Story
-
+---
 Yesterday, my father told us he wanted a divorce. This had been a possibility for a long time, as there has been a lot of friction between my parents over the years, but only a few days ago my father said he *didn't* want a divorce and things had progressed recently, so at least I didn't expect this now. The situation escalated after I confronted my mother while agitated, trying to make her admit she hasn't validated my emotions in my childhood – which has caused severe trauma and developmental issues. At one point during the heated conversation, my father came home. He was filled in, and eventually the discussion moved to their relationship. At this point, most others had already gone to bed as it was past midnight, but I stayed downstairs while my mother and father discussed, well it was more of an argument, but that's the norm for them.
 
 Eventually their arguing culminated in my father saying he wanted a divorce. I went to sleep after letting the info sink in for a few hours, and when I woke up at roughly 10:50, my father had told my sisters about the situation. This led to an over 7 hours long discussion about the future of our family. My older brother was woken up and called to join, and my older sister was picked up from her house after a few hours. The situation was extremely difficult for the youngest two, but others handled it pretty well initially.
@@ -26,5 +26,5 @@ Luckily, I have friends I can trust – hopefully at least. They seem nice and a
 
 
 ## Afterword
-
+----
 There are still a few things that are missing from this, for example, how I have never felt like my parents actually care about me and how they are emotionally inept and broken people unfit to care for their children's emotions, as can be seen by all their children being depressed at some point of their lives, three having attempted suicide and four having been hospitalized.
