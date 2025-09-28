@@ -5,7 +5,7 @@ title = 'Used'
 +++
 ## Introduction
 
-I came out as trans two days ago, ready to explore myself and find my place in the world – but then everything fell apart.
+I came out as trans two days ago, ready to explore myself and find who I am – but then everything fell apart.
 
 
 ## The Story
@@ -18,9 +18,9 @@ Before this my father and I used to talk about my mother and how her actions hav
 
 I don't feel like he wanted to help me handle my problems, but acquire ammunition to use against her. Now everything he has done for me feels reframed as somehow being for his gain. For example now I feel like he wanted to do things with me not because I needed it and he should do it as a father, but because he felt bad for himself for not doing it earlier in my life and wanted to feel like a good father. He has always tried to make amends for his previous actions and I felt it was honest and was happy he tried to act better, but now it seems like he only did it because he wanted to feel better about himself.
 
-I don't think I'm able to properly trust anyone anymore. I'll always question their motivation and feel like I might be being manipulated or used somehow, even when there may not be any reason to believe so. Even those I trust the most, which have never been my parents, are harder to trust. What if they help me for their own gain and not because they care about me? What if I'm just a means to an end – a tool, worthless and disposable. My self-worth has been severely damaged by my father's actions and I feel unclean. I will **not** say that this is anywhere close to being raped, but I feel like I understand how rape victims feel little better now.
+I don't think I'm able to properly trust anyone anymore. I'll always question their motivation and feel like I might be being manipulated or used somehow, even when there may not be any reason to believe so. Even those I trust the most, which have never been my parents, are harder to trust. What if they help me for their own gain and not because they care about me? What if I'm just a means to an end – a tool. Worthless and disposable. My self-worth has been severely damaged by my father's actions and I feel unclean. I will **not** say that this is anywhere close to being raped, but I think I understand how rape victims feel a little better now. I don't think he even truly understands the depth of the damage he has caused to his children, not only with the divorce but also with his emotional absence and all his other actions.
 
-My father had been very close to me, but now he feels distant. He was incredibly important to me, but I don't think I can ever trust him properly again. I wish things could be better, but it will take a lot of therapy for me to get over these feelings and my relationship with my father will never be the same again. It will be forever clouded by the damage he has caused me. I will never again think of him as my protector, but instead as the man who ruined my trust.
+My father had been very close to me, but now he feels distant to me, but he acts as if everything is fine. He was incredibly important to me, but I don't think I can ever trust him properly again. I wish things could be better, but it will take a lot of therapy for me to get over these feelings and my relationship with my father will never be the same again. It will be forever clouded by the damage he has caused me. I will never again think of him as my protector, but instead as the man who ruined my trust.
 
 Luckily, I have friends I can trust, hopefully, at least. They seem nice and are the only people I have left, apart from my siblings. They have been there for me in my times of need, unlike my parents who don't know how to support their children who are severely depressed and invalidate their emotions.
 
