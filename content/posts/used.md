@@ -22,7 +22,7 @@ I don't think I'm able to properly trust anyone anymore. I'll always question th
 
 My father had been very close to me, but now he feels distant to me, but he acts as if everything is fine. He was incredibly important to me, but I don't think I can ever trust him properly again. I wish things could be better, but it will take a lot of therapy for me to get over these feelings and my relationship with my father will never be the same again. It will be forever clouded by the damage he has caused me. I will never again think of him as my protector, but instead as the man who ruined my trust.
 
-Luckily, I have friends I can trust, hopefully, at least. They seem nice and are the only people I have left, apart from my siblings. They have been there for me in my times of need, unlike my parents who don't know how to support their children who are severely depressed and invalidate their emotions.
+Luckily, I have friends I can trust – hopefully at least. They seem nice and are the only people I have left, apart from my siblings. They have been there for me in my times of need, unlike my parents who don't know how to support their children who are severely depressed and invalidate their emotions.
 
 
 ## Afterword
