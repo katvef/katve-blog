@@ -1,4 +1,4 @@
 baseURL = 'https://blog.katvef.fi/'
 languageCode = 'en-us'
 title = "Katve's Blog"
-theme = 'ananke'
+theme = 'blog-awesome'
