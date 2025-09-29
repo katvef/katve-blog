@@ -30,3 +30,5 @@ Now that I've thought about the time when my father moved away, I think I unders
 ## Afterword
 ---
 Writing this blog has been helpful and has aided me in processing this situation, but I also hope this helps people understand me and themselves better when they read this. I also encourage everyone reading this to **seek a therapist** if you are struggling with suicidial thoughts, self-harm, depression, anxiety, or have harmed anyone, itentionally or unintentionally. Also seek a therapist if **you** have been hurt.
+
+> Hurt people hurt people
