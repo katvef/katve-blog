@@ -19,11 +19,6 @@ theme = 'blog-awesome'
 	name = "About"
 	url = "/about/"
 	weight = 30
-[[menu.main]]
-# WIP version of site that is hosted from the wip branch of the repository
-	pageRef="wip"
-	name = "WIP"
-	url = "/wip/"
 
 [params]
 	sitename = "Katve's blog"
