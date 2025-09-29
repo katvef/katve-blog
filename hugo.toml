@@ -1,4 +1,45 @@
 baseURL = 'https://blog.katvef.fi/'
 languageCode = 'en-us'
-title = "Katve's Blog"
+defaultContentLanguage = 'en-gb'
+title = "Katve's blog"
 theme = 'blog-awesome'
+
+[[menu.main]]
+	pageRef="/"
+	name = "Home"
+	url = "/"
+	weight = 10
+[[menu.main]]
+	pageRef="posts"
+	name = "Posts"
+	url = "/posts/"
+	weight = 20
+[[menu.main]]
+	pageRef="about"
+	name = "About"
+	url = "/about/"
+	weight = 30
+[[menu.main]]
+# WIP version of site that is hosted from the wip branch of the repository
+	pageRef="wip"
+	name = "WIP"
+	url = "/wip/"
+
+[params]
+	sitename = "Katve's blog"
+	defaultColor = "dark"
+	description = "Blog to tell about my feelings and probably other life events too in the future"
+	mainSections = ["posts"]
+
+[params.author]
+	# avatar = ""
+	intro = "A fucked up little trans bitch's blog"
+	name = "Katve F"
+	description = "The blog will be mostly vents for a good while, but at some point there'll probably be some actual posts that have something interesting."
+
+[[params.socialIcons]]
+	name = "github"
+	url = "https://github.com/katvef"
+[[params.socialIcons]]
+	name = "Rss"
+	url = "/index.xml"
