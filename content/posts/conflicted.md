@@ -1,8 +1,8 @@
-+++
-date = '2025-09-29T23:00:36+03:00'
-draft = false
-title = 'Conflicted'
-+++
+---
+date: 2025-09-29
+title: Conflicted
+description: Emotional conflicts are difficult, but even more so when they are rooted in trauma.
+---
 ## Introduction
 ---
 I have always had conflicting emotions regarding some things; they seem to change suddenly and over time without any discernible logic. This has caused difficulties in choosing and doing things, leading me to often ignore my problems and just carry on. Now that I'm trying to face my emotions and deal with them, this struggle has become ever more prevalent.
