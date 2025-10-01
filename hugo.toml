@@ -1,4 +1,4 @@
-baseURL = 'https://blog.katvef.fi/'
+baseURL = 'https://blog.katvef.fi/wip/'
 languageCode = 'en-us'
 defaultContentLanguage = 'en-gb'
 title = "Katve's blog"
@@ -19,6 +19,11 @@ theme = 'blog-awesome'
 	name = "About"
 	url = "/about/"
 	weight = 30
+[[menu.main]]
+	pageRef="songs"
+	name = "Songs"
+	url = "/songs/"
+	weight = 30
 
 [params]
 	sitename = "Katve's blog"
@@ -38,3 +43,7 @@ theme = 'blog-awesome'
 [[params.socialIcons]]
 	name = "Rss"
 	url = "/index.xml"
+
+[markup.goldmark.renderer]
+	unsafe = true
+	hardWraps = true
