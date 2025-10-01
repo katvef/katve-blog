@@ -38,3 +38,7 @@ theme = 'blog-awesome'
 [[params.socialIcons]]
 	name = "Rss"
 	url = "/index.xml"
+
+[markup.goldmark.renderer]
+	unsafe = true
+	hardWraps = true
