@@ -3,6 +3,7 @@ date: 2025-09-30
 draft: true
 isStarred: true
 title: WIP – Dysphoria & Euphoria
+summary: My epxerience with gender dysphoria and euphoria
 ---
 ## Introduction
 ---

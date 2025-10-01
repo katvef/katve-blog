@@ -1,7 +1,7 @@
 ---
 date: 2025-09-29
 title: Conflicted
-description: Emotional conflicts are difficult, but even more so when they are rooted in trauma.
+summary: Emotional conflicts are difficult, but even more so when they are rooted in trauma.
 ---
 ## Introduction
 ---
