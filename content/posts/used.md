@@ -1,8 +1,8 @@
-+++
-date = '2025-09-28T02:25:02+03:00'
-draft = false
-title = 'Used'
-+++
+---
+date: 2025-09-28
+title: Used
+summary: My father is getting a divorce and has made me feel used.
+---
 ## Introduction
 ---
 I came out as trans two days ago, ready to explore myself and find who I am – but then everything fell apart.
