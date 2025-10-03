@@ -1,6 +1,5 @@
 ---
 date: 2025-09-30
-draft: true
 isStarred: true
 title: Dysphoria & Euphoria
 summary: My epxerience with gender dysphoria and euphoria + some other stuff about my gender identity
