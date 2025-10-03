@@ -1,6 +1,6 @@
 ---
 date: 2025-10-04
-title: WIP – Mind and Body Disconnected
+title: Mind and Body Disconnected
 summary: More talk about me being trans and how it affects me psychologically
 draft: true
 ---
