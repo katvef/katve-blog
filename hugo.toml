@@ -46,4 +46,3 @@ theme = 'blog-awesome'
 
 [markup.goldmark.renderer]
 	unsafe = true
-	hardWraps = true
