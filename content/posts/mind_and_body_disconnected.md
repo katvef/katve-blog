@@ -44,7 +44,7 @@ Most of my free time is wasted on thinking about death. I process my feelings an
 alone in my room disconnected from everything else in the world. Well, most effectively may be a bit
 much to say, since I haven't really tried anything else before. Intellectualizing your emotions is often
 actually a response to you suppressing your emotions and not learning how to *feel* them. The only emotion
-that I can *feel* is anxiety – the physical effects are too strong not to notice.
+that I can feel is anxiety – the physical effects are too strong not to notice.
 
 
 ## Afterword
