@@ -1,5 +1,5 @@
 ---
-date: 2025-10-04
+date: 2025-10-05
 title: Mind and Body Disconnected
 summary: More talk about me being trans and how it affects me psychologically
 ---
