@@ -2,7 +2,6 @@
 date: 2025-10-04
 title: Mind and Body Disconnected
 summary: More talk about me being trans and how it affects me psychologically
-draft: true
 ---
 ## Disconnected
 My gender dysphoria is extremely strong, and over time, it has grown just stronger. Currently, it's
@@ -15,7 +14,7 @@ but most people don't know how it feels I can still move my body (if I'm not too
 control of my body), but it feels unreal.
 
 Dissociation and depersonalization seem to become more common by the day. Looking in the mirror is
-difficult; all I see is a handsome person that I am not. I don't want to be handsome, I want to be
+difficult – all I see is a handsome person that I am not. I don't want to be handsome, I want to be
 pretty and beautiful. I don't see myself in the mirror, I don't even see what I want to be in my mind,
 I see a constantly changing dark mess with a vaguely humanoid shape. It hurts to see myself like this,
 it just makes me want to die. I don't see a world where any of this has a good ending, so all I can
@@ -41,4 +40,14 @@ has made the line between reality and my mind blur even more. I'm not sure exact
 sometimes I feel like I'm fully immersed in a video, a book, or even another person, and it becomes my
 whole reality. I'm not entirely sure where I end and where the world begins – everything feels like a blur.
 
-WIP
+Most of my free time is wasted on thinking about death. I process my feelings and emotions most effectively
+alone in my room disconnected from everything else in the world. Well, most effectively may be a bit
+much to say, since I haven't really tried anything else before. Intellectualizing your emotions is often
+actually a response to you suppressing your emotions and not learning how to *feel* them. The only emotion
+that I can *feel* is anxiety – the physical effects are too strong not to notice.
+
+
+## Afterword
+This is a bit shorter than the previous posts, and I might extend this later a bit, but right now I just
+want to get this out. It's been waiting for 3 days to be finished and I just haven't had the time and
+energy. Hopefully I can get some more posts done next week.
