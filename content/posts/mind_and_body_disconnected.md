@@ -48,6 +48,6 @@ that I can feel is anxiety – the physical effects are too strong not to notice
 
 
 ## Afterword
-This is a bit shorter than the previous posts, and I might extend this later a bit, but right now I just
+This is a bit shorter than the previous posts and I might extend this later a bit, but right now I just
 want to get this out. It's been waiting for 3 days to be finished and I just haven't had the time and
 energy. Hopefully I can get some more posts done next week.
