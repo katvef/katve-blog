@@ -1,0 +1,26 @@
+@for $i from 1 through 10 {
+  .shaky-#{$i} {
+    display: inline-flex;
+
+    span {
+      display: inline-block;
+      animation: shake-#{$i} var(--shaky-dur, 0.5s) infinite;
+    }
+
+    @for $j from 1 through 40 {
+      span:nth-child(#{$j}) {
+        animation-delay: random(1000) * -0.01s;
+      }
+    }
+  }
+
+  @keyframes shake-#{$i} {
+    @for $j from 0 through 20 {
+      #{$j*5}% {
+      $x: #{random($i + 1) - $i * 0.5}px;
+      $y: #{random($i + 1) - $i * 0.5}px;
+      transform: translate($x, $y) rotate(random(11) - 5 + deg);
+      }
+    }
+  }
+}

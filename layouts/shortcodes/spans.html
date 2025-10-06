@@ -1,0 +1,10 @@
+{{- $text := .Get "text" | default (.Get 0) -}}
+
+<span class="{{ $.Get "class" | default "" }}" style="{{ $.Get "style" | default "" | safeCSS }}">
+	{{- $len := len $text -}}
+	{{- range $i := seq 0 (sub $len 1) -}}
+		{{- $ch := substr $text $i 1 -}}
+		<span>{{ $ch }}</span>
+	{{- end -}}
+</span>
+
