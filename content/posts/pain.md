@@ -1,5 +1,5 @@
 ---
-date: 2025-10-07
+date: 2025-10-07T00:00:00+03:00
 title: Pain
 summary: I love pain. I want to suffer.
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2025-09-28
+date: 2025-09-28T00:00:00+03:00
 title: Used
 summary: My father is getting a divorce and has made me feel used.
 ---

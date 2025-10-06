@@ -1,5 +1,5 @@
 ---
-date: 2025-09-29
+date: 2025-09-29T00:00:00+03:00
 title: Conflicted
 summary: Emotional conflicts are difficult, but even more so when they are rooted in trauma.
 ---

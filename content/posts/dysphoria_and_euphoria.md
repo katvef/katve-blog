@@ -1,5 +1,5 @@
 ---
-date: 2025-09-30
+date: 2025-09-30T00:00:00+03:00
 isStarred: true
 title: Dysphoria & Euphoria
 summary: My epxerience with gender dysphoria and euphoria + some other stuff about my gender identity
