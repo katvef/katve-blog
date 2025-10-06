@@ -41,10 +41,13 @@ it's hard. I constantly have the urge to cut, but I don't want to have the scars
 don't think they look "sexy".
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/27cw0tNJKQQW2CJMGcCfZb?utm_source=generator&theme=0" width="100%" height="120" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Scars on my body are nice to look at and touch; the deeper, the better. They make me feel powerful and
-in control. They make me feel _happy_. They also make it easier to look at my disgusting body – they
-pull the focus from everything that is wrong. 
-
+The second time I started cutting, I cut
+{{< spans text="deep;" class="steps" style="--step:1px; --initial-steps:1" >}} as deep as I could.
+I wanted to feel some proper **pain**. It started when I had a really bad panic attack. It lasted for
+so long I couldn't take it anymore. I don't remember how long it took until I started cutting that time,
+but it was after the first or second hour of the panic attack. After that, I started cutting when I felt
+bad, and I felt bad _often_. I cut almost daily. I've stoped cutting again, as I mentioned earlier, but
+I still want to do it.
 
 ## Too much
 When I traverse my mind while exploring my thoughts, [all I hear are screams](https://www.youtube.com/watch?v=cyqul8pKHko&t=43s).
@@ -62,6 +65,14 @@ Because of this, it's easy for me to keep going after I've hit my limit when run
 it still takes a lot of discipline; which is a thing I lack with most other things. It takes too much
 effort to pull yourself out of bed sometimes. I _could_ do it, but I just don't have the energy to force
 myself.
+
+Scars on my body are nice to look at and touch; the deeper, the better. They make me feel powerful and
+in control. They make me feel _happy_. They also make it easier to look at my disgusting body – they
+pull the focus from everything that is wrong with this lump of flesh I'm forced to live in. I haven't
+self harmed in a few weeks now. The urges are strong, but I need to find better coping mechanisms.
+Writing this blog has helped a lot with the urges, as I can get the emotions out of my body and they
+don't get to pile up to the uncontrollable mess it has been for years.
+
 
 
 ## Afterword
