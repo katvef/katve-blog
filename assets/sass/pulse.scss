@@ -1,0 +1,12 @@
+.pulse {
+  display: inline-flex;
+  animation: pulse var(--pulse-dur, 1s)  infinite;
+}
+
+@keyframes pulse {
+  15% { transform: scale(1); }
+  20% { transform: scale(var(--pulse-scale, 1.1)); }
+  30% { transform: scale(1); }
+  55% { transform: scale(var(--pulse-scale, 1.1)); }
+  65% { transform: scale(1); }
+}
