@@ -15,12 +15,14 @@
   }
 
   @keyframes shake-#{$i} {
-    @for $j from 0 through 20 {
-      #{$j*5}% {
+    0% { transform: translate(0, 0) rotate(0); }
+    @for $j from 0 through 18 {
+      #{5 + $j * 5}% {
       $x: #{random($i + 1) - $i * 0.5}px;
       $y: #{random($i + 1) - $i * 0.5}px;
       transform: translate($x, $y) rotate(random(11) - 5 + deg);
       }
     }
+    100% { transform: translate(0, 0) rotate(0); }
   }
 }
