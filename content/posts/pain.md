@@ -44,10 +44,10 @@ don't think they look "sexy".
 
 The second time I started cutting, I cut
 {{< spans text="deep" class="steps" style="--step:1px; --initial-steps:1" >}} – as deep as I could.
-I wanted to feel some proper **pain**. It started when I had a really bad panic attack. It lasted for
+I wanted to feel some proper **pain**. It started when I had a really severe panic attack. It lasted for
 so long I couldn't take it anymore. I don't remember how long it took until I started cutting that time,
 but it was after the first or second hour of the panic attack. After that, I started cutting when I felt
-bad, and I felt bad _often_. I cut almost daily. I've stoped cutting again, as I mentioned earlier, but
+bad, and I felt bad _often_. I cut almost daily. I've stopped cutting again, as I mentioned earlier, but
 I still want to do it.
 
 ## Too much
@@ -82,7 +82,7 @@ don't get to pile up to the uncontrollable mess it has been for years.
 ## Afterword
 I tried to use some more styling this time. Had to learn a bit of CSS, but I think it improves the
 look of the post. It adds a bit more action to the otherwise plain text. I made an effort to not use
-any Javascript, which made everything a bit harder. I'll probably try to use more styling and write
+any JavaScript, which made everything harder. I'll probably try to use more styling and write
 more CSS to make the site more {{< spans text="unique." class="wave" style="--wave-top:8px;" >}}
 
 
