@@ -3,7 +3,7 @@ date: 2025-10-07T00:00:00+03:00
 title: Pain
 summary: I love pain. I want to suffer.
 ---
-## Pain <span class="pulse">&hearts;</span>
+## Pain <span class="heart-beat">&hearts;</span>
 I {{< spans text="love" class="wave" style="--wave-dur:1.3s; --wave-top:8px; --wave-bottom:-2px;" >}} pain. Pain is pleasure. I want to suffer. I want to see myself
 bleed. I want to see all the blood flow. I want to hear myself scream. I want to see my body torn and
 mangled. I deserve to suffer. I want to be hurt. I want to be used. I want to lose all control and be
