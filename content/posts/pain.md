@@ -23,7 +23,8 @@ hearing myself cry and scream for the pain to stop, anything where I am permanen
 having these things actually happen to me would permanently affect my body and make everything harder,
 but my brain doesn't care about that – this body deserves to suffer, _it's not good enough_. Also, I
 _do **not**_ enjoy gore, it's only me suffering that I enjoy. In fact, gore and screams of pain are unsettling
-to me; they make me feel anxious and uncomfortable. Looking at gore makes me want to puke.
+to me; they make me feel anxious and uncomfortable. Looking at gore makes me want to puke. (Unless it's
+drawn, in which case I have no reaction and it doesn't bother me at all)
 
 I don't remember the year (as I do not for almost anything) when I started self harming, but it was sometime
 during primary school between the grades one and four. It started with me beating my things and banging
@@ -55,7 +56,7 @@ They **{{< spans text="hurt!" class="shaky-1" >}} –        
 {{< spans text="I" class="shaky-1" >}} {{< spans text="DON'T" class="shaky-2" >}}
 {{< spans text="WANT" class="shaky-3" >}} {{< spans text="THEM!" class="shaky-4" >}}**
 {{< spans text="I just want them to stop." class="shaky-1"
-style="--shaky-dur:8s; vertical-align: -2px; opacity: 70%; color: cornflowerblue" >}}
+style="--shaky-dur:20s; vertical-align: -2px; opacity: 70%; color: cornflowerblue" >}}
 I don't want to be plagued with these screams and cries for the rest of my life. All the pain
 in my mind is like my mind being flayed – torn into a million pieces and stitched together into a new
 form **every second**. The pain is so great that there aren't many things that can push it away. The
