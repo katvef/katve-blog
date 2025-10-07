@@ -25,6 +25,7 @@ theme = 'blog-awesome'
 	defaultColor = "dark"
 	description = "Blog to tell about my feelings and probably other life events too in the future"
 	mainSections = ["posts"]
+	rssFeedDescription = "description"
 
 [params.author]
 	# avatar = ""
