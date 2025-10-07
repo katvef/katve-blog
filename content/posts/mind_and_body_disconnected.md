@@ -1,7 +1,7 @@
 ---
 date: 2025-10-05T00:00:00+03:00
 title: Mind and Body Disconnected
-summary: More talk about me being trans and how it affects me psychologically
+summary: More talk about me being trans and how it affects me psychologically.
 ---
 ## Disconnected
 My gender dysphoria is extremely strong, and over time, it has grown just stronger. Currently, it's
