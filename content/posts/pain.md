@@ -80,7 +80,7 @@ don't get to pile up to the uncontrollable mess it has been for years.
 
 
 ## Afterword
-I tried to use some more styling this time. Had to learn a bit of SASS, but I think it improves the
+I tried to use some more styling this time. Had to learn a bit of CSS, but I think it improves the
 look of the post. It adds a bit more action to the otherwise plain text. I made an effort to not use
 any Javascript, which made everything a bit harder. I'll probably try to use more styling and write
 more CSS to make the site more {{< spans text="unique." class="wave" style="--wave-top:8px;" >}}
