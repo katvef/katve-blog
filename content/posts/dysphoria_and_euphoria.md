@@ -2,7 +2,7 @@
 date: 2025-09-30T00:00:00+03:00
 isStarred: true
 title: Dysphoria & Euphoria
-description: My epxerience with gender dysphoria and euphoria + some other stuff about my gender identity.
+description: My experience with gender dysphoria and euphoria + some other stuff about my gender identity.
 ---
 ## Introduction
 ---
