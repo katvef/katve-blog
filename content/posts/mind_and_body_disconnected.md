@@ -4,6 +4,7 @@ title: Mind and Body Disconnected
 description: More talk about me being trans and how it affects me psychologically.
 ---
 ## Disconnected
+---
 My gender dysphoria is extremely strong, and over time, it has grown just stronger. Currently, it's
 so bad that I feel like I'm disconnected from my body. I might be thinking about something or doing
 something, and suddenly this feeling that this body is wrong just comes over me like a wave of emotions
@@ -48,6 +49,7 @@ that I can feel is anxiety – the physical effects are too strong not to notice
 
 
 ## Afterword
+---
 This is a bit shorter than the previous posts and I might extend this later a bit, but right now I just
 want to get this out. It's been waiting for 3 days to be finished and I just haven't had the time and
 energy. Hopefully I can get some more posts done next week.

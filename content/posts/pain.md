@@ -4,6 +4,7 @@ title: Pain
 description: I love pain. I want to suffer.
 ---
 ## Pain <span class="heart-beat">&hearts;</span>
+---
 I {{< spans text="love" class="wave" style="--wave-dur:1.3s; --wave-top:8px; --wave-bottom:-2px;" >}} pain. Pain is pleasure. I want to suffer. I want to see myself
 bleed. I want to see all the blood flow. I want to hear myself scream. I want to see my body torn and
 mangled. I deserve to suffer. I want to be hurt. I want to be used. I want to lose all control and be
@@ -11,6 +12,7 @@ told what to do. I {{< spans text="hate" class="shaky" >}} myself.
 
 
 ## Pain is good
+---
 From an extremely young age, I was interested in pain. I don't know why or when exactly this started,
 but I remember myself just pushing through pain and trying to be strong – I think that contributed
 at least a bit to me enjoying pain. Feeling pain just makes me feel euphoric – a pleasure you can't
@@ -50,7 +52,9 @@ but it was after the first or second hour of the panic attack. After that, I sta
 bad, and I felt bad _often_. I cut almost daily. I've stopped cutting again, as I mentioned earlier, but
 I still want to do it.
 
+
 ## Too much
+---
 When I traverse my mind while exploring my thoughts, [all I hear are screams](https://www.youtube.com/watch?v=cyqul8pKHko&t=43s).
 They **{{< spans text="hurt!" class="shaky-1" >}} –
 {{< spans text="I" class="shaky-1" >}} {{< spans text="DON'T" class="shaky-2" >}}
@@ -78,8 +82,8 @@ Writing this blog has helped a lot with the urges, as I can get the emotions out
 don't get to pile up to the uncontrollable mess it has been for years.
 
 
-
 ## Afterword
+---
 I tried to use some more styling this time. Had to learn a bit of CSS, but I think it improves the
 look of the post. It adds a bit more action to the otherwise plain text. I made an effort to not use
 any JavaScript, which made everything harder. I'll probably try to use more styling and write
