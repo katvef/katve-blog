@@ -1,6 +1,6 @@
 .float {
   display: inline-flex;
-  animation: float-move var(--float-dur, 3s) ease-in-out calc(var(--float-dur, 3s) / 3) infinite, float-rotate var(--float-dur, 3s) ease-in-out infinite;
+  animation: float-move var(--float-dur, 3s) ease-in-out calc(var(--float-dur, 3s) / 3 + var(--float-offset, 0s)) infinite, float-rotate var(--float-dur, 3s) ease-in-out var(--float-offset, 0s) infinite;
   animation-composition: add;
 }
 
