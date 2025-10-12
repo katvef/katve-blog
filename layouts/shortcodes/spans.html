@@ -4,7 +4,8 @@
 	{{- $len := len $text -}}
 	{{- range $i := seq 0 (sub $len 1) -}}
 		{{- $ch := substr $text $i 1 -}}
-	<span style="--i:{{ $i }};">{{ $ch }}</span>
-	{{- end -}}
+	{{ if (eq $ch " ") }} {{ $ch = " " }} {{ end }}
+		<span style="--i:{{ $i }};">{{ $ch }}</span>
+	{{ end }}
 </span>
 

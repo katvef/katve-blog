@@ -59,7 +59,7 @@ When I traverse my mind while exploring my thoughts, [all I hear are screams](ht
 They **{{<spans text="hurt!" class="shaky-1">}} –
 {{<spans text="I" class="shaky-1">}} {{<spans text="DON'T" class="shaky-2">}}
 {{<spans text="WANT" class="shaky-3">}} {{<spans text="THEM!" class="shaky-4">}}**
-{{<spans text="I just want them to stop." class="shaky-1"
+{{<spans text="I just want them to stop." class="shaky-1"
 style="--shaky-dur:20s; vertical-align: -2px; opacity: 85%;">}}
 I don't want to be plagued with these screams and cries for the rest of my life. All the pain
 in my mind is like my mind being flayed – torn into a million pieces and stitched together into a new
