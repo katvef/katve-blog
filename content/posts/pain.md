@@ -5,7 +5,7 @@ description: I love pain. I want to suffer.
 ---
 ## Pain <span class="heart-beat">&hearts;</span>
 ---
-I {{< spans text="love" class="wave" style="--wave-dur:1.3s; --wave-top:8px; --wave-bottom:-2px;" >}} pain. Pain is pleasure. I want to suffer. I want to see myself
+I {{<spans text="love" class="wave" style="--wave-dur:1.3s; --wave-top:8px; --wave-bottom:-2px;">}} pain. Pain is pleasure. I want to suffer. I want to see myself
 bleed. I want to see all the blood flow. I want to hear myself scream. I want to see my body torn and
 mangled. I deserve to suffer. I want to be hurt. I want to be used. I want to lose all control and be
 told what to do. I {{< spans text="hate" class="shaky" >}} myself.
@@ -31,7 +31,7 @@ drawn, in which case I have no reaction and it doesn't bother me at all)
 I don't remember the year (as I do not for almost anything) when I started self harming, but it was sometime
 during primary school between the grades one and four. It started with me beating my things and banging
 my head against a wall, but I wanted something more, I wanted something stronger, I wanted to see my body
-{{< spans text="bleed" class="shaky-2" style="--shaky-dur:1s; color: darkred;" >}}. As a result of that,
+{{<spans text="bleed" class="shaky-2" style="--shaky-dur:1s; color: darkred;">}}. As a result of that,
 I started cutting. I liked when I saw the blood come out – it made me happy. If I could do this to my body,
 I could do anything. But my parents caught me because I was in a room that others walk through constantly
 and had practically no privacy (very good for the mental health of a child /s).
@@ -45,7 +45,7 @@ don't think they look "sexy".
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/27cw0tNJKQQW2CJMGcCfZb?utm_source=generator&theme=0" width="100%" height="120" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 The second time I started cutting, I cut
-{{< spans text="deep" class="steps" style="--step:1px; --initial-steps:1" >}} – as deep as I could.
+{{<spans text="deep" class="steps" style="--step:1px; --initial-steps:1">}} – as deep as I could.
 I wanted to feel some proper **pain**. It started when I had a really severe panic attack. It lasted for
 so long I couldn't take it anymore. I don't remember how long it took until I started cutting that time,
 but it was after the first or second hour of the panic attack. After that, I started cutting when I felt
@@ -56,11 +56,11 @@ I still want to do it.
 ## Too much
 ---
 When I traverse my mind while exploring my thoughts, [all I hear are screams](https://www.youtube.com/watch?v=cyqul8pKHko&t=43s).
-They **{{< spans text="hurt!" class="shaky-1" >}} –
-{{< spans text="I" class="shaky-1" >}} {{< spans text="DON'T" class="shaky-2" >}}
-{{< spans text="WANT" class="shaky-3" >}} {{< spans text="THEM!" class="shaky-4" >}}**
-{{< spans text="I just want them to stop." class="shaky-1"
-style="--shaky-dur:20s; vertical-align: -2px; opacity: 85%;" >}}
+They **{{<spans text="hurt!" class="shaky-1">}} –
+{{<spans text="I" class="shaky-1">}} {{<spans text="DON'T" class="shaky-2">}}
+{{<spans text="WANT" class="shaky-3">}} {{<spans text="THEM!" class="shaky-4">}}**
+{{<spans text="I just want them to stop." class="shaky-1"
+style="--shaky-dur:20s; vertical-align: -2px; opacity: 85%;">}}
 I don't want to be plagued with these screams and cries for the rest of my life. All the pain
 in my mind is like my mind being flayed – torn into a million pieces and stitched together into a new
 form **every second**. The pain is so great that there aren't many things that can push it away. The
@@ -87,7 +87,7 @@ don't get to pile up to the uncontrollable mess it has been for years.
 I tried to use some more styling this time. Had to learn a bit of CSS, but I think it improves the
 look of the post. It adds a bit more action to the otherwise plain text. I made an effort to not use
 any JavaScript, which made everything harder. I'll probably try to use more styling and write
-more CSS to make the site more {{< spans text="unique." class="wave" style="--wave-top:8px;" >}}
+more CSS to make the site more {{<spans text="unique." class="wave" style="--wave-top:8px;">}}
 
 
 > **Pain is freedom,<br>
