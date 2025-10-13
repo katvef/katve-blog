@@ -7,8 +7,8 @@
       animation: shake-#{$i} var(--shaky-dur, 0.5s) infinite;
     }
 
-    @for $j from 1 through 40 {
-      span:nth-child(#{$j}) {
+    @for $j from 2 through 10 {
+      span:nth-child(#{$j}n) {
         animation-delay: random(1000) * -0.01s;
       }
     }

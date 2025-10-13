@@ -3,18 +3,18 @@
 }
 
 @keyframes flicker {
-  0%   { opacity: random() * 2.5; }
-  5%   { opacity: random() * 2.5; }
-  10%  { opacity: random() * 2.5; }
-  15%  { opacity: random() * 2.5; }
-  20%  { opacity: random() * 2.5; }
-  25%  { opacity: random() * 2.5; }
-  30%  { opacity: random() * 2.5; }
-  40%  { opacity: random() * 2.5; }
-  50%  { opacity: random() * 2.5; }
-  60%  { opacity: random() * 2.5; }
-  70%  { opacity: random() * 2.5; }
-  80%  { opacity: random() * 2.5; }
-  90%  { opacity: random() * 2.5; }
-  100% { opacity: random() * 2.5; }
+	0%   { opacity: 1; }
+	5%   { opacity: 0.4; }
+	10%  { opacity: 0.9; }
+	15%  { opacity: 0.3; }
+	20%  { opacity: 1; }
+	25%  { opacity: 0.6; }
+	30%  { opacity: 0.8; }
+	40%  { opacity: 0.5; }
+	50%  { opacity: 1; }
+	60%  { opacity: 0.7; }
+	70%  { opacity: 1; }
+	80%  { opacity: 0.3; }
+	90%  { opacity: 0.9; }
+	100% { opacity: 1; }
 }
