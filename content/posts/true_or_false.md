@@ -28,6 +28,9 @@ Even that is difficult. When I go with the logic, I don't feel valid. The doubt 
 I need external validation to truly feel valid about my thoughts, but asking for validation would make
 me doubt if the source of validation actually thinks that or just says it because I want them to.
 
+Sometimes I even have doubts about my doubts being real doubts, or me just thinking I should doubt it
+so that I fit what I think I should be like.
+
 I can hide most parts of myself I don't like, but a flat chest is rather difficult to hide, leading me
 to constantly think to myself: "man, I'd look so much better in these clothes if I had breasts". Still,
 I doubt if I _really_ want breasts or just think I do. In this case, logic says that I've had this thought
@@ -35,13 +38,36 @@ for _years_ and thus is probably not just some fabrication of my mind, but somet
 specific thought applies to most of my thoughts about my gender, excluding those that seem to change
 or are inconsistent over time.
 
+A more annoying thing about this doubting is attempting to find a nefarious reason for every nice action
+and an excuse or explanation for bad things someone has done.
 
-## Mirror, Mirror
+
+## Mirror, Mirror, Who The Fuck Am I?
 ---
 I do not have a proper sense of self. I only exist as what others want from me, my purpose is to fulfill
 others wants and needs. It is as if I'm hollow and fill myself with everything I find around me. I must
 be accepted. Who I am was not accepted, thus I discarded that identity and started mimicking others –
-taking my identity from those around me. I noticed this behavior
+taking my identity from those around me. I noticed this behavior first in middle school when I started
+studying myself, attempting to diagnose the reason behind it. After that, I have become a slave to my
+fears; only doing actions that have no possibility of judgement and no chance of me being perceived in
+a negative way, since that's what leads to abandonment.
+
+I studied others and how they acted, staying quiet in the beackground where I was present. I only spoke
+what I knew would be accepted, repeating things others said, adopting their beliefs, and simply being
+a reflection of what the group is. Only sounding my opinion if it aligned with the opinion of others.
+This is mostly similar to what I believe many do when they are in a new environment where they know no-one
+(especially at that age), but it was extreme to me. I did not show my true self even after I was comfortable
+around my new friends, because I never was. Now I have become more comfortable around them, but I still
+cannot act as who I truly am for three reasons: I am _still_ immensly afraid of abandonment, I do not know
+who I am, and mirroring others has become a necessity for me to be able to exist – the void is too scary
+to embrace.
+
+People pleasing is another thing that I see this has incured; if I am not liked, I am abandoned, so I
+must make my self be liked. Being like others is – to me – a form of people pleasing, because people
+like being with others like them. I hate 
+
+I constantly work to be what I think I should be, without ever knowing if that is actually me. I constantly
+need something to fill the void inside me, no matter what it is or where it comes from.
 
 To be my true self, I think I need that to be something others want. Knowing that is what others want
 is not enough, they need to tell me that what I want to be is what they want. Not just be told "we want
