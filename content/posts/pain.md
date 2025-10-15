@@ -45,7 +45,7 @@ don't think they look "sexy".
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/27cw0tNJKQQW2CJMGcCfZb?utm_source=generator&theme=0" width="100%" height="120" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 The second time I started cutting, I cut
-{{<spans text="deep" class="steps" style="--step:1px; --initial-steps:1">}} – as deep as I could.
+{{<spans text="deep" class="steps" style="--steps-steps:1px;--steps-offset:1px;">}} – as deep as I could.
 I wanted to feel some proper **pain**. It started when I had a really severe panic attack. It lasted for
 so long I couldn't take it anymore. I don't remember how long it took until I started cutting that time,
 but it was after the first or second hour of the panic attack. After that, I started cutting when I felt
