@@ -69,6 +69,6 @@ parents actually care about me and how they are emotionally inept and broken peo
 their children's emotions, as can be seen by all their children being depressed at some point of their
 lives, three having attempted suicide and four having been hospitalized.
 
-NOTE: I do not like keeping this up anymore since my feelings now somewhat diverge, but I think having
-the emotions that I felt at the moment recorded be a good thing because I don't remember my thoughts
+16.10.2025 : I do not like keeping this up anymore since my feelings now somewhat diverge, but I think
+having the emotions that I felt at the moment recorded be a good thing because I don't remember my thoughts
 during that time otherwise.
