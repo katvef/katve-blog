@@ -46,8 +46,8 @@ feel like I might be being manipulated or used somehow, even when there may not 
 believe so. Even those I trust the most, which have never been my parents, are harder to trust. What
 if they help me for their own gain and not because they care about me? What if I'm just a means to an
 end – a tool. Worthless and disposable. My self-worth has been severely damaged by my father's actions
-and I feel unclean. I will **not** say that this is anywhere close to being raped, but I think I understand
-how rape victims feel a little better now. I don't think he even truly understands the depth of the
+and I feel unclean. <s>I will **not** say that this is anywhere close to being raped, but I think I understand
+how rape victims feel a little better now.</s> I don't think he even truly understands the depth of the
 damage he has caused to his children, not only with the divorce but also with his emotional absence
 and all his other actions.
 
