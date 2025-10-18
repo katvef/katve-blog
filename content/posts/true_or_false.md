@@ -83,11 +83,11 @@ and depression.
 
 I hate receiving things I have not gained through my efforts, but I like giving things to others. Or
 to be more accurate: I like giving things to others since it improves their view on me; increasing my
-self-worth and giving them a reason to keep me around for a while longer.
+worth and giving them a reason to keep me around for a while longer.
 
-Now I have become more comfortable around them, but I still cannot act as who I truly am for three reasons:
-I am still impossibly afraid of abandonment, I do not know who I am, and mirroring others has become
-a necessity for me to be able to exist – the void is too scary to embrace.
+<!-- Now I have become more comfortable around them, but I still cannot act as who I truly am for three reasons: -->
+<!-- I am still impossibly afraid of abandonment, I do not know who I am, and mirroring others has become -->
+<!-- a necessity for me to be able to exist – the void is too scary to embrace. -->
 
 
 ## Invalid
@@ -97,6 +97,32 @@ in order to fit what others want of me have likely contributed a lot to this. My
 I've hidden them and felt them alone for my whole life, so that isn't something I think of daily, but
 it would be really nice if they were validated instead of being ignored, minimized, and reframed.
 
+A highly difficult thing for me is that I feel my gender is invalid. I feel like I'm not doing enough
+to present as the correct gender and because people don't see me as the gender I am, I can't present
+as that gender (due to the mirroring and need to be what others want me to be).
+
+To be my true self, I think I need that to be something others want. Knowing that is what others want
+is not enough, they need to tell me that what I want to be is what they want. Not just be told "we want
+you to be yourself", but specifically be told the exact things _I_ want is what _they_ want. Though directly
+requesting this would make it feel fake and thus I would be unable to accept it.
+
+I find most my actions to be rooted in me needing to be liked by others, since if I'm not liked, I'm
+abandoned. I need to ensure that no-one feels any negative emotion because of me, since that may cause
+me not to be liked. This explains why I don't want anyone to think I like someone else more, since that
+may cause envy. I feel like my value to others is what I provide them, not what I am. What I am feels
+more like a commodity I provide to others than a proper part of myself. I _want_ to be able to be who I
+really am, but it feels impossible unless I get constant support and validation from others, especially
+people important to me.
+
+I don't like talking about my lack of self-worth and feelings that I don't deserve help since my expectation
+is that I will be told "You are important!" or "But you do deserve help!". I don't need to be told that;
+I know that through logic. I need others to see me and make me feel like I'm worth something; I need
+people to make me <span class="float" style="--float-dur:2s;--float-min:1px;--float-rot:5deg;">feel</span>
+like I deserve help.
+
+
+## The Voices Never Stop
+---
 <p style="text-wrap: balance; text-align: center; text-justify: inter-character;">
     <span class="tint flicker" style="--flicker-dur:5s;--flicker-offset:-1s;">
         {{<spans text="“you're not valid”" class="shaky-1 float" style="--float-offset:-1s;--float-rot:1deg">}}
@@ -139,58 +165,71 @@ it would be really nice if they were validated instead of being ignored, minimiz
 
 I constantly have intrusive thoughts and they get overwhelming easily. I fear I might do some of the
 actions and I believe every thought. The thoughts about killing myself are ever present and if I distract
-myself, they come back at random moments. The thoughts are not mine, they are said by some other voice
-that's not me, but is a part of me. It's like there's a little demon living inside my head – a manifestation
-of the "bad" parts of me. I do not wish to commit these actions, but the urge is great in the moment.
-I'm afraid I might commit some of these actions. I'm afraid of myself, everything I could do if I lost
-control. I subconsciously learnt to freeze when I experience a strong negative emotion, such as anxiety,
-anger, or annoyance (which are practically the same to me as I experience emotions in extremes).
+myself, they come back at random moments. The thoughts are mine, they are said by some other voice that's
+not me, but is a part of me. It's like there's a little demon living inside my head – a manifestation
+of the "{{<spans text="bad" class="shaky-1">}}" parts of me. I do not wish to commit these actions, but
+the urge is great when I hear the voice.
 
-A highly difficult thing for me is that I feel my gender is invalid. I feel like I'm not doing enough
-to present as the correct gender and because people don't see me as the gender I am, I can't present
-as that gender (due to the mirroring and need to be what others want me to be).
+I'm afraid I might commit some of these actions. I'm ashamed of myself and afraid of everything I could
+do if I lost control. I subconsciously learnt to freeze when I experience a strong negative emotion,
+such as anxiety, anger, or annoyance (which are practically the same to me as I experience emotions in
+extremes). When I freeze, it is incredibly distressing; the helplessness and lack of control caused by
+not being able to move your body is incredibly distressing.
 
-To be my true self, I think I need that to be something others want. Knowing that is what others want
-is not enough, they need to tell me that what I want to be is what they want. Not just be told "we want
-you to be yourself", but specifically be told the exact things _I_ want is what _they_ want. Though directly
-requesting this would make it feel fake and thus I would be unable to accept it.
+"I am **disgusting**", "I am **repulsive**.", "**No-one** would want to be with me if they knew what goes on in my
+head". I truly believe these thoughts. I am an absolute and utter failure worthless of life. I do not
+have a single drop of self-worth left, all my worth comes from other people and external validation.
+If I do not achieve something or give someone something, be that something physical, psychological, or
+social, I feel like I'm not doing enough.
 
-I find most my actions to be rooted in me needing to be liked by others, since if I'm not liked, I'm
-abandoned. I need to ensure that no-one feels any negative emotion because of me, since that may cause
-me not to be liked. This explains why I don't want anyone to think I like someone else more, since that
-may cause envy. I feel like my value to others is what I provide them, not what I am. What I am feels
-more like a commodity I provide to others than a proper part of myself. I _want_ to be able to be who I
-really am, but it feels impossible unless I get constant support and validation from others, especially
-people important to me.
-
-I don't like talking about my lack of self-worth and feelings that I don't deserve help since my expectation
-is that I will be told "You are important!" or "But you do deserve help!". I don't need to be told that;
-I know that through logic. I need others to see me and make me feel like I'm worth something; I need
-people to make me <span class="float" style="--float-dur:2s;--float-min:1px;--float-rot:5deg;">feel</span>
-like I deserve help.
+I have a ton of self-hate that has built up over the years, a ton of which is caused by my executive
+dysfunction. Each time I fail to do something before a deadline, I punish myself by, for example, verbally
+abusing myself, banging my head against a wall, hitting myself, but that doesn't usually help, so the
+shame is left to grow and build up. All this shame and self-hate has torn my self-worth into nothingness.
 
 
 ## Please Like Me!
 ---
+As I told, I **need** others to like me, I **need** people close to me, I **need** to have at least _some_ sort of
+human interaction, I **need** external validation. This combined with my doubting of everybody's intentions
+and fear of abandonment leads me to an _extremely_ enjoyable experience with people. I want to pull people
+ever closer but fear their closeness, because they could abandon me at any moment or might use my vulnerability
+as a weapon against me. I've learnt that it's safest to stay closed and never be vulnerable, but luckily
+I have some great friends and finally have people I can now be more open with – though the fear is still
+there, stronger even.
 
-
-
-"I am disgusting", "I am repulsive.", "No-one would want to be with me if they knew what goes on in my
-head". I truly believe these thoughts. I am an absolute degenerate worthless of life. I should not be
-
-
-
-
-A thing I've noticed is that I don't want anyone to think I like someone else more than someone else.
-I think it might be because I think if others know I like someone more, then they would like me less
-or be envious (envy = bad emotion).
-
-
-
-Now that I have opened to my friends and actually have people I think care about me as my friends, I
-fear I am being used for amusement or something else in my friend group and only kept around because
+Now that I have opened to my friends and actually have people I think could care about me as my friends,
+I fear I am being used for amusement or something else in my friend group and only kept around because
 that provides them something. That has been what I've always done to keep myself from being abandoned –
 provide to others a person they enjoy, so you won't be left alone – but now I fear that is the only reason
 I'm not abandoned. A torn up piece of shit like me may be fun to build up and then tear down – maybe
 I'm just a toy to them. This fear seems irrational even to _me_, but they are impossible to be left without
-attention and I constantly struggle to fight it, since ignoring feels **impossible**.
+attention and I constantly struggle to fight it. I try to ignore it, but that feels **impossible**.
+
+A thing I've noticed is that I don't want anyone to think I like someone more than someone else. I think
+it might be because I think if others know I like someone better, then they would like me less or be
+envious, which means that **I** have caused someone else to feel a negative emotion. Someone feeling a negative
+emotion because of me is not something I want; I'm supposed to make others feel <i style="color: mediumseagreen;">better</i>, not <i style="color: indianred;">worse</i>.
+
+I am _afraid_. It's like I'm hanging on a thread held by others and having no independence – I am beholden
+to my friends and could not survive on my own. This increases my need to give them so much more – yet,
+I'm in such a bad condition that I'm unable to provide nothing but my company and continued living. I
+don't currently have any other reason to live, other than the fact that there is someone who means something
+to me and want me to live. I'm afraid that the thread could be cut at any moment, but still hopeful of
+the fact that things can change. I _can_ still get better. I am _not_ alone in this world.
+
+
+## Afterword
+---
+I've put much more effort to writing this post than any other posts yet and wish to keep the length and
+quality at this level. It takes a lot longer to write like this, but the higher quality helps the reader
+understand the meaning and emotion behind the words better. I will still do shorter posts in between, but
+try to do _at least_ one longer post per month.
+
+Something specifically about this post is that I noticed I over explained a lot, which is caused directly
+by my want to be understood correctly, as I've often been misunderstood and if people don't know the
+reason behind everything, they may read my actions or intentions as evil. People are difficult and a
+single sentence may have multiple meanings depending on the person.
+
+I've also been thinking of adding a comment section, but haven't had the time or interest to add it.
+I also might not want everyone to be able to comment under these posts, as the content is quite sensitive.
