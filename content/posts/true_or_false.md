@@ -1,7 +1,6 @@
 ---
 date: 2025-10-18T00:00:00+03:00
 title: True Or False
-draft: true
 ---
 ## A seed of doubt
 ---
@@ -65,9 +64,7 @@ since that's what leads to abandonment.
 In middle school, I studied others and how they acted, staying quiet in the background where I was present.
 I only spoke what I knew would be accepted, parroting things others said, adopting their beliefs, and
 simply being a reflection of what the group was. Only sounding my opinion if it aligned with the opinion
-of others.
-
-This is mostly similar to what I believe many do when they are in a new environment where
+of others. This is mostly similar to what I believe many do when they are in a new environment where
 they know no-one (especially at that age), but it was extreme to me. I did not show my true self even
 after I was comfortable around my new friends, because I never was. My identity had become a commodity
 I provided to others.
@@ -79,15 +76,18 @@ harmful to myself, such as transforming myself to what others want from a person
 my own needs and wants in order to fulfill the wants and needs of others. I often push myself past my
 limit for example, going to social events even when I would not have the energy because people want me
 there, changing my identity in order to match what others want me to be, and working through anxiety
-and depression.
+and depression, maybe even suppressing panic attacks to seem "normal".
 
-I hate receiving things I have not gained through my efforts, but I like giving things to others. Or
-to be more accurate: I like giving things to others since it improves their view on me; increasing my
-worth and giving them a reason to keep me around for a while longer.
+All the doubting has caused me to want a person in my life who tells me what I'm supposed to be and do.
+This feels conflicting to me, since I've always held being in control of your life at an extremely high
+value, likely because I've never been in control of my life. It's like I'm just a passenger on raft floating
+in the open ocean, and I have {{<hovertext text="thalassophobia" title="Fear of deep bodies of water">}}.
+Now I realize I need the person to be someone who wants me to be me and I can trust has my best interest
+in mind. I now understand this to be need for a strong mirror that wants me to be who I am.
 
-<!-- Now I have become more comfortable around them, but I still cannot act as who I truly am for three reasons: -->
-<!-- I am still impossibly afraid of abandonment, I do not know who I am, and mirroring others has become -->
-<!-- a necessity for me to be able to exist – the void is too scary to embrace. -->
+My parents are not a good fit for the role; my need to be what others want has been partially caused
+by them, especially my mother by proxy of her religion to which I was raised, where I was constantly
+told what I should be like. I need the person to be someone I do _not_ have negative experiences with.
 
 
 ## Invalid
@@ -119,6 +119,10 @@ is that I will be told "You are important!" or "But you do deserve help!". I don
 I know that through logic. I need others to see me and make me feel like I'm worth something; I need
 people to make me <span class="float" style="--float-dur:2s;--float-min:1px;--float-rot:5deg;">feel</span>
 like I deserve help.
+
+I hate receiving things I have not gained through my efforts, but I like giving things to others. Or
+to be more accurate: I like giving things to others since it improves their view on me; increasing my
+worth and giving them a reason to keep me around for a while longer.
 
 
 ## The Voices Never Stop
