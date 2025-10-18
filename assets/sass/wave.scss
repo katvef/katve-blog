@@ -5,10 +5,8 @@
     display: inline-block;
     animation: wave-bounce var(--wave-dur, 1.5s) ease-in-out infinite;
 
-    @for $i from 1 through 40 {
-      &:nth-child(#{$i}) {
-        animation-delay: $i * -0.1s;
-      }
+    &:nth-child(n) {
+      animation-delay: calc(var(--i) * var(--wave-delay, -0.1s));
     }
   }
 }
