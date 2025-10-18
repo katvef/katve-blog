@@ -53,9 +53,9 @@ Unfortunately though, my facial hair grows **fast**; I have to shave daily and y
 just a few hours. I've been thinking of starting to wear a mask, but it might be a bit odd – gotta
 think about it a bit more.
 
-<span style="text-decoration: underline;" title="hormone replacement therapy">HRT</span>* will likely
-be extremely euphoric for me when I get it. I've been studying all the effects of estrogen and all of
-them seem so nice! Getting HRT is a bit difficult here in Finland due to the long wait times and the
-process being slow, but after that, everything is pretty much free. I should really get an appointment
-with my doctor, but it's still really difficult for me to talk about it to people. I have yet to
-properly start my social transition, but I know *roughly* what I want – I just need to gather up the courage.
+{{<hovertext text="HRT" title="hormone replacement therapy">}} will likely be extremely euphoric for
+me when I get it. I've been studying all the effects of estrogen and all of them seem so nice! Getting
+HRT is a bit difficult here in Finland due to the long wait times and the process being slow, but after
+that, everything is pretty much free. I should really get an appointment with my doctor, but it's still
+really difficult for me to talk about it to people. I have yet to properly start my social transition,
+but I know *roughly* what I want – I just need to gather up the courage.
