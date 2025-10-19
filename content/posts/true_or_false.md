@@ -218,8 +218,8 @@ emotion because of me is not something I want; I'm supposed to make others feel 
 
 I am _afraid_. It's like I'm hanging on a thread held by others and having no independence – I am beholden
 to my friends and could not survive on my own. This increases my need to give them so much more – yet,
-I'm in such a bad condition that I'm unable to provide nothing but my company and continued living. I
-don't currently have any other reason to live, other than the fact that there is someone who means something
+I'm in such a bad condition that I'm unable to provide all but my company and continued living. I don't
+currently have any other reason to live, other than the fact that there is someone who means something
 to me and want me to live. I'm afraid that the thread could be cut at any moment, but still hopeful of
 the fact that things can change. I _can_ still get better. I am _not_ alone in this world.
 
