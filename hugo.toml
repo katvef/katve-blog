@@ -30,12 +30,13 @@ theme = 'blog-awesome'
 	defaultColor = "dark"
 	description = "Blog to tell about my feelings and probably other life events too in the future"
 	mainSections = ["posts"]
+	rssFeedDescription = "description"
 
 [params.author]
 	# avatar = ""
 	intro = "A fucked up little trans bitch's blog"
 	name = "Katve F"
-	description = "The blog will be mostly vents for a good while, but at some point there'll probably be some actual posts that have something interesting. The goal is to post  daily, but we'll see."
+	description = "The blog will be mostly vents for a good while, but at some point there'll probably be some actual posts that have something interesting. The goal is to post weekly, but we'll see."
 
 [[params.socialIcons]]
 	name = "github"

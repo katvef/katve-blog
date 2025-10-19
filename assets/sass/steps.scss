@@ -1,0 +1,12 @@
+.steps {
+  display: inline-block;
+
+  span {
+    display: inline-block;
+    position: relative;
+
+    &:nth-child(n) {
+      top: calc(calc(var(--i) + var(--initial-steps, 0)) * var(--steps-step, 1px));
+    }
+  }
+}

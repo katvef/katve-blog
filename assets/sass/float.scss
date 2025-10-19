@@ -1,0 +1,15 @@
+.float {
+  display: inline-flex;
+  animation: float-move var(--float-dur, 3s) ease-in-out calc(var(--float-dur, 3s) / 3 + var(--float-offset, 0s)) infinite, float-rotate var(--float-dur, 3s) ease-in-out var(--float-offset, 0s) infinite;
+  animation-composition: add;
+}
+
+@keyframes float-move {
+  0%, 100% { transform: translateY(calc(var(--float-max, 2px) * -1)); }
+  50% { transform: translateY(var(--float-min, 2px)); }
+}
+
+@keyframes float-rotate {
+  0%, 100% { transform: rotate(calc(var(--float-rot, 0deg) * -1)); }
+  50% { transform: rotate(var(--float-rot, 0deg)); }
+}

@@ -1,0 +1,10 @@
+.tint {
+  color: inherit;
+  transition: color var(--tint-out, 1s) ease-in;
+}
+
+.tint:hover {
+  color: var(--tint-color, darkred);
+  transition: color var(--tint-in, 0.5s) ease-out;
+}
+

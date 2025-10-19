@@ -1,0 +1,17 @@
+.wave {
+  display: inline-flex;
+
+  span {
+    display: inline-block;
+    animation: wave-bounce var(--wave-dur, 1.5s) ease-in-out infinite;
+
+    &:nth-child(n) {
+      animation-delay: calc(var(--i) * var(--wave-delay, -0.1s));
+    }
+  }
+}
+
+@keyframes wave-bounce {
+  0%, 100% { transform: translateY(calc(var(--wave-bottom, 0px) * -1)); }
+  50% { transform: translateY(calc(var(--wave-top, 10px) * -1)); }
+}

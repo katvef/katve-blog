@@ -1,12 +1,13 @@
 ---
-date: 2025-10-03
+date: 2025-10-03T00:00:00+03:00
 title: Gender? What gender?
-summary: What is gender? And what is my gender? How do I experience it?
+description: What is gender? And what is my gender? How do I experience it?
 ---
 ## Introduction
+---
 Gender is a fucking complex part of your identity. It defines some of the deepest parts of you, and
 is often forced on you without your consent based on a 50-50 roll. While the assigned gender is usually
-the corrects one, I think most people don't actually fully identify with it. In addition, forcing a
+the correct one, I think most people don't actually fully identify with it. In addition, forcing a
 set of stereotypes on young teenagers can be, and is, extremely harmful to their development;
 especially the stigma around people not conforming to the stereotype of their gender is highly stressful
 and especially difficult for queer youth suppressing their true identity, possibly without even knowing it.
@@ -21,6 +22,7 @@ more people are on the non-binary spectrum than they realize.
 
 
 ## What even is gender?
+---
 Gender is a social construct humans have created to categorize people (humans seem to love categorizing
 things). There is no biological basis for the concept on gender. Yes, there are two sexes, but there
 is historical evidence years thousands of years back proving that many societies have had more than
@@ -35,6 +37,7 @@ do what I want? Why must I make myself fit into these arbitrarily set rules that
 
 
 ## My gender identity
+---
 My gender identity is too complex for me to understand, but I think I understand enough of it to speak
 about it. My first realization that I am not a man came to me when I was 13 or 14 years old. Even before
 that, I had not understood gender as a concept completely, I just saw people with different bodies;
