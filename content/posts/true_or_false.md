@@ -1,6 +1,7 @@
 ---
 date: 2025-10-18T22:12:40+03:00
 title: Fucked Up Trans Bitch
+description: I have been masterfully fucked up.
 ---
 ## A seed of doubt
 ---
