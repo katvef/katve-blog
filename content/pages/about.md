@@ -9,7 +9,7 @@ trying to push away the feeling of not being a man and be what others wanted me 
 grasp of who I am and feel like I change from moment to moment, especially based on the people I am
 with; I suspect this to be caused by BPD, but it could also simply be caused my upbringing and
 temperament or possibly the combination of
-{{<hovertext text="C-PTSD" title="ICD-11 isn't yet in use here in Finland, so a C-PTSD diagnosis isn't possible to get">}}
+C-PTSD{{<info title="ICD-11 isn't yet in use here in Finland, so a C-PTSD diagnosis isn't possible to get">}}
 and autism or some other shit. Currently waiting for neuropsychiatric studies due to suspected autism
 and hopefully will find out if I have any other personality disorders or similar. I have an ADHD diagnosis
 and have always been a bit weird, so this isn't surprising to me, I have even suspected I have something

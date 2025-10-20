@@ -82,7 +82,7 @@ and depression, maybe even suppressing panic attacks to seem "normal".
 All the doubting has caused me to want a person in my life who tells me what I'm supposed to be and do.
 This feels conflicting to me, since I've always held being in control of your life at an extremely high
 value, likely because I've never been in control of my life. It's like I'm just a passenger on raft floating
-in the open ocean, and I have {{<hovertext text="thalassophobia" title="Fear of deep bodies of water">}}.
+in the open ocean, and I have thalassophobia{{<info title="Fear of deep bodies of water">}}.
 Now I realize I need the person to be someone who wants me to be me and I can trust has my best interest
 in mind. I now understand this to be need for a strong mirror that wants me to be who I am.
 
