@@ -48,12 +48,12 @@ aid. I feel my gender changes over time, but still stays the same. Sometimes I f
 a woman, sometimes I feel a bit both, and sometimes I feel *slightly* a boy. There are some times when
 I feel like neither or some other unnamed gender.
 
-The most difficult part about my gender is the conflicting wants: Most of the time I'm comfortable
-having a penis, sometimes I want a vagina, and sometimes I want neither. There are even times when I
-want both genitals. I want to have sex with men in a gay way, but I don't want to be a man. I want to
-have sex with women in a gay way, but I do want to be a man sometimes. This all is just so confusing!
-I want breasts and think I would look better with breasts in most of my outfits, but sometimes a flat
-chest might look better. I just wish gender wasn't a thing I need to think about and could just be myself.
+<!-- The most difficult part about my gender is the conflicting wants: Most of the time I'm comfortable -->
+<!-- having a penis, sometimes I want a vagina, and sometimes I want neither. There are even times when I -->
+<!-- want both genitals. I want to have sex with men in a gay way, but I don't want to be a man. I want to -->
+<!-- have sex with women in a gay way, but I do want to be a man sometimes. This all is just so confusing! -->
+<!-- I want breasts and think I would look better with breasts in most of my outfits, but sometimes a flat -->
+<!-- chest might look better. I just wish gender wasn't a thing I need to think about and could just be myself. -->
 
 I completely support the abolishment of gender as a concept and think that gender has no place in a
 transhumanist society. We don't *need* these labels for genders or sexualities, but humans feel more
