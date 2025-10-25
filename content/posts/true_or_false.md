@@ -1,5 +1,6 @@
 ---
 date: 2025-10-18T22:12:40+03:00
+modified: 2025-10-25T04:53:18+03:00
 title: Fucked Up Trans Bitch
 description: I have been masterfully fucked up.
 ---
@@ -71,8 +72,8 @@ after I was comfortable around my new friends, because I never was. My identity 
 I provided to others.
 
 People pleasing is another thing that I find my fear of abandonment has incurred; if I am not liked,
-I'll be abandoned, so I must make my self be liked. Being like others is a form of "people pleasing"
-to me. People like being with and are drawn to others like them. I do things for others that are actively
+I'll be abandoned, so I must make my self be liked. Being like others is one of the forms of people pleasing
+I do; People like being with and are drawn to others like them. I do things for others that are actively
 harmful to myself, such as transforming myself to what others want from a person, constantly ignoring
 my own needs and wants in order to fulfill the wants and needs of others. I often push myself past my
 limit for example, going to social events even when I would not have the energy because people want me
