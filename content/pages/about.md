@@ -14,8 +14,8 @@ and autism or some other shit. Currently waiting for neuropsychiatric studies du
 and hopefully will find out if I have any other personality disorders or similar. I have an ADHD diagnosis
 and have always been a bit weird, so this isn't surprising to me, I have even suspected I have something
 more severe for a good while. I go by any pronouns, but prefer "she" and "they". I have always been called
-a boy and I *partly* identify with that at times, but not others so "he" is fine too. Neopronouns are a bit
-alien thing to me, but you can't say you don't like something if you haven't tried, right?
+a boy and I *partly* identify as male at times so "he" is fine too. Neopronouns are a bit alien thing
+to me, but you can't say you don't like something if you haven't tried, right?
 
 > *Where should be me, I find a ceaseless void filled with cries for help and screams of pain.*
 >
