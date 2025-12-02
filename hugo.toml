@@ -4,6 +4,8 @@ defaultContentLanguage = 'en-gb'
 title = "Katve's blog"
 theme = 'blog-awesome'
 
+enableRobotsTXT = true
+
 [[menu.main]]
 	pageRef="/"
 	name = "Home"
@@ -28,7 +30,7 @@ theme = 'blog-awesome'
 	rssFeedDescription = "description"
 
 [params.author]
-	# avatar = ""
+	avatar = "avatar.jpg"
 	intro = "A fucked up little trans bitch's blog"
 	name = "Katve F"
 	description = "The blog will be mostly vents for a good while, but at some point there'll probably be some actual posts that have something interesting. The goal is to post weekly, but we'll see."
@@ -36,6 +38,9 @@ theme = 'blog-awesome'
 [[params.socialIcons]]
 	name = "github"
 	url = "https://github.com/katvef"
+[[params.socialIcons]]
+	name = "bluesky"
+	url = "https://elmortti.bsky.social"
 [[params.socialIcons]]
 	name = "Rss"
 	url = "/index.xml"
