@@ -1,6 +1,6 @@
 ---
 title: About me
-summary: Some info about me
+description: Some info about me
 ---
 After years of pushing through anxiety and depression while trying to act “normal”, I have finally
 decided it's time to change things and try to find out what place does the world have for this faggot.
