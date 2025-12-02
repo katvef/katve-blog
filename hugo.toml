@@ -28,6 +28,7 @@ enableRobotsTXT = true
 	description = "Blog to tell about my feelings and probably other life events too in the future"
 	mainSections = ["posts"]
 	rssFeedDescription = "description"
+	goToTop = true
 
 [params.author]
 	avatar = "avatar.jpg"
